@@ -5,4 +5,8 @@ Tested on Linux runs in terminal only
 
 If your figure moves to fast you can optimize it by changing line 10 in jurke.c
 #define SPEED 20000000 by changing number 
+
+command for compiling gcc jurke.c -o pg
+	    running ./pg
+
 Have Fun!
